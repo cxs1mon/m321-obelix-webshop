@@ -1,6 +1,6 @@
 package ch.bbw.obelix.webshop;
 
-import ch.bbw.obelix.webshop.dto.MenhirDto;
+import ch.bbw.obelix.quarry.api.MenhirDto;
 import ch.bbw.obelix.webshop.dto.BasketDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
